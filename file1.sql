@@ -5,7 +5,7 @@ select table_name from user_tables where table_name like '%prof%';
 select * from plsql_profiler_runs;
 select * from PLSQL_PROFILER_DATA;
 select * from PLSQL_PROFILER_UNITS;
-
+--hgjhghjghjghjg
 create or replace procedure proc_c
 as
 lv_avg_sal number;
