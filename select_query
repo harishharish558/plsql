@@ -1,1 +1,2 @@
 select * from emp;
+selectg * from emp where 1=2;
